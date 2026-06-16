@@ -3,14 +3,14 @@
 A full-featured Point of Sale (POS) system developed in Java (NetBeans) for City Electronics.  
 The system supports both Admin and Customer roles, including product management, billing, and account handling.
 
-📌 Project Overview
+# Project Overview
 
 City Electronics POS System is a desktop-based application designed to manage electronics store operations efficiently.  
 It allows administrators to manage products and users, while customers can browse products, create accounts, and generate bills.
 
-✨ Features
+# Features
 
-👨‍💼 Admin Features
+Admin Features
 - Admin login system
 - Add / Update / Delete products
 - Manage product inventory
@@ -18,40 +18,36 @@ It allows administrators to manage products and users, while customers can brows
 - Generate and manage invoices
 - Dashboard for system overview
 
-👤 Customer Features
+Customer Features
 - User registration (create account)
 - Customer login system
 - Browse available products
 - Add items for purchase
 - Generate billing invoice
 
-🧾 Billing System
+Billing System
 - Automatic invoice generation
 - Product-wise billing
 - Total calculation
 - Clean invoice format
 
-🛠️ Technologies Used
-
+Technologies Used
 - Java (NetBeans IDE)
 - Swing (GUI)
 
-🔐 Login Details (Example)
-
+Login Details (Example)
 Admin
 Username: CE
 Password: admin
 
- 🚀 Future Improvements
-
+Future Improvements
 - Online payment integration
 - Advanced reporting system
 - Barcode scanner support
 - Cloud database integration
 - Web-based version
 
-👨‍💻 Author
-
+Author
 Jasmina Thevasuthan
 
 - GitHub: https://github.com/Jasmina-Thevasuthan
